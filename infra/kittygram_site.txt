@@ -1,0 +1,5 @@
+IP: 51.250.27.81;
+name_taski: https://taskmaster.gotdns.ch;
+name_kittygram: https://kittygram.myftp.biz;
+login: KittyFan;
+password: Kittypassword123;
